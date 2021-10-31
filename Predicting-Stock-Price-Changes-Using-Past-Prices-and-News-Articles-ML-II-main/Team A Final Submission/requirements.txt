@@ -1,0 +1,11 @@
+pandas==1.1.2
+matplotlib==3.2.2
+Keras==2.4.3
+nltk==3.5
+streamlit==0.84.0
+joblib==0.16.0
+requests==2.24.0
+numpy==1.18.5
+yfinance==0.1.62
+scikit_learn==0.24.2
+tensorflow==2.5
